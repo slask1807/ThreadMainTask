@@ -1,4 +1,4 @@
-package ru.rsreu.Sterlyukin0814.model;
+package model;
 import java.util.Random;
 
 public class ParkingPlace {

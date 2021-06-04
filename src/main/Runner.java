@@ -1,8 +1,8 @@
-package ru.rsreu.Sterlyukin0814.main;
+package main;
 import java.util.ArrayList;
 import java.util.List;
 
-import ru.rsreu.Sterlyukin0814.model.*;
+import model.*;
 
 public class Runner {
 

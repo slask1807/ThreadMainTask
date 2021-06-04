@@ -1,5 +1,5 @@
-package ru.rsreu.Sterlyukin0814.model;
-import com.prutzkow.resourcebundledemo.Resourcer;
+package model;
+import resources.Resourcer;
 
 public class Car implements Runnable{
 	

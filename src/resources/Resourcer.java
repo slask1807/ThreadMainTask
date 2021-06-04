@@ -1,4 +1,4 @@
-package com.prutzkow.resourcebundledemo;
+package resources;
 
 import java.util.Locale;
 import java.util.MissingResourceException;

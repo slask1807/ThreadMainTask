@@ -1,8 +1,8 @@
-package ru.rsreu.Sterlyukin0814.model;
+package model;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.prutzkow.resourcebundledemo.Resourcer;
+import resources.Resourcer;
 
 public class Parking {
 	private final static int MAX_ATTEMPTS_COUNT = 2;
